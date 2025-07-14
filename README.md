@@ -1,5 +1,3 @@
-# folder-fonts-installer-exe
-
 # Folder Fonts Installer
 
 A simple, portable Windows CLI tool to install fonts from a folder.  
